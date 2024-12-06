@@ -50,7 +50,7 @@ rock-paper-scissors-tkinter/
 └── README.md                    # Documentation
 ```
 ## 🖼️ Screenshot
-[Click here](screenshot.jpg)
+[Click here](screenshot.png)
 
 ## ✨ Gameplay Rules
 - **Rock beats Scissors**: Rock crushes scissors.
