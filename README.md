@@ -37,6 +37,8 @@ A graphical Rock-Paper-Scissors game built with Python and Tkinter, where you co
    ```bash
    python app.py
 
+---
+
 ## 📂 Directory Structure
 ```bash
 rock-paper-scissors-tkinter/
@@ -49,13 +51,20 @@ rock-paper-scissors-tkinter/
 ├── screenshot
 └── README.md                    # Documentation
 ```
+
+---
+
 ## 🖼️ Screenshot
 [Click here](screenshot.png)
+
+---
 
 ## ✨ Gameplay Rules
 - **Rock beats Scissors**: Rock crushes scissors.
 - **Scissors beats Paper**: Scissors cut paper.
 - **Paper beats Rock**: Paper covers rock.
+
+---
 
 ## 🤝 Contribution
 Feel free to contribute to this project! Here's how you can help:
